@@ -1,0 +1,2 @@
+overlay chrome://browser/content/browser.xul chrome://keywordstrategy/content/browser.xul
+content keywordstrategy chrome/content/
